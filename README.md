@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://budget-fv.netlify.app/" target="_blank">
+    <a href="https://budget-app-react-lake.vercel.app/" target="_blank">
       <img src="public/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Budget App - React</h3>
